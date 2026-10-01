@@ -1,2 +1,6 @@
 # TP02-PHP-EL-HICHAMI-AMINE
 TP 02 PHP — Programmation Web 2 — 2026/2027
+
+Amine EL HICHAMI 
+Groupe TP : 3
+TP 02 PHP
