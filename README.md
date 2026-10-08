@@ -16,3 +16,14 @@ $1a n'est pas valide car il commence par un chiffre, et $a! est également incor
 ## Exercice 4 - Question 6 : 
 
 La fonction `echo`fait la conversion du `false` en chaine de caracteres, ce qui donnera une chaine vide "", donc il y a rien qui s'affiche. Tandis que `var_dump()` affiche des informations sur une variable, telles que le nom, le type et la valeur ainsi que la longueur pour les chaines de caracteres.
+
+## Exercice 5 - Question 5 : 
+
+L'exécution du php a affiché des résultats comme suit :
+-1 : Note invalide
+9 : Non validé
+10 : Passable 
+12 : Assez bien 
+14 : Bien 
+16 : Très bien 
+21 : Note invalide 
