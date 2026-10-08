@@ -20,10 +20,17 @@ La fonction `echo`fait la conversion du `false` en chaine de caracteres, ce qui 
 ## Exercice 5 - Question 5 : 
 
 L'exécution du php a affiché des résultats comme suit :
+
 -1 : Note invalide
+
 9 : Non validé
+
 10 : Passable 
+
 12 : Assez bien 
+
 14 : Bien 
+
 16 : Très bien 
+
 21 : Note invalide 
